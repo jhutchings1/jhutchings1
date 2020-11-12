@@ -1,5 +1,3 @@
-![Photo of me speaking at GitHub Satellite](https://user-images.githubusercontent.com/12853539/98994388-8fe19080-24e4-11eb-8d7e-ae8f9bd0fdb3.png)
-
 Hello! I'm Justin Hutchings, and I'm a product manager here at GitHub working on our security features for developers. My latest project has been the integration of [Semmle's super cool CodeQL into GitHub](https://semmle.com/) with [code scanning](https://docs.github.com/en/free-pro-team@latest/github/finding-security-vulnerabilities-and-errors-in-your-code/about-code-scanning). Code scanning is free for public repositories, so go try it out (check your repository's security tab!). 
 
 A few of my talks on security and software:
