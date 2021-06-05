@@ -1,4 +1,8 @@
-Hello! I'm Justin Hutchings, and I'm a product manager here at GitHub working on our security features for developers. My latest project has been the integration of [Semmle's super cool CodeQL into GitHub](https://semmle.com/) with [code scanning](https://docs.github.com/en/free-pro-team@latest/github/finding-security-vulnerabilities-and-errors-in-your-code/about-code-scanning). Code scanning is free for public repositories, so go try it out (check your repository's security tab!). 
+Hello! I'm Justin Hutchings, and I'm a product manager here at GitHub working on our security features for developers. 
+
+I'm currently working on our supply chain security features including [@Dependabot](https://github.com/dependabot), the [Advisory Database](https://github.com/advisories), and the dependency graph. 
+
+Previously, I worked on the integration of [Semmle's super cool CodeQL into GitHub](https://semmle.com/) with [code scanning](https://docs.github.com/en/free-pro-team@latest/github/finding-security-vulnerabilities-and-errors-in-your-code/about-code-scanning). Code scanning is free for public repositories, so go try it out (check your repository's security tab!). 
 
 A few of my talks on security and software:
 
