@@ -1,8 +1,6 @@
-Hello! I'm Justin Hutchings, and I'm a product manager here at GitHub working on our security features for developers. 
+Hello! I'm Justin Hutchings, and I'm a product manager at [@Cloudflare](https://github.com/cloudflare) working on our APIs, IAM, and enterprise capabilities. 
 
-I'm currently working on our supply chain security features including [@Dependabot](https://github.com/dependabot), the [Advisory Database](https://github.com/advisories), and the dependency graph. 
-
-Previously, I worked on the integration of [Semmle's super cool CodeQL into GitHub](https://semmle.com/) with [code scanning](https://docs.github.com/en/free-pro-team@latest/github/finding-security-vulnerabilities-and-errors-in-your-code/about-code-scanning). Code scanning is free for public repositories, so go try it out (check your repository's security tab!). 
+I was previously at GitHub working on security features including [@Dependabot](https://github.com/dependabot), the [Advisory Database](https://github.com/advisories), and the integration of [Semmle's super cool CodeQL into GitHub](https://semmle.com/) with [code scanning](https://docs.github.com/en/free-pro-team@latest/github/finding-security-vulnerabilities-and-errors-in-your-code/about-code-scanning). Code scanning is free for public repositories, so go try it out (check your repository's security tab!). 
 
 A few of my talks on security and software:<br/>
 <a href="https://www.youtube.com/watch?v=T_-Tn81b4lc"><img src="http://img.youtube.com/vi/T_-Tn81b4lc/0.jpg" alt="GitHub Advanced Security roundup" width="200rem"></a>
